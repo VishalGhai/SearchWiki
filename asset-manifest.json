@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SearchWiki/static/css/main.7b82b3a6.chunk.css",
+    "main.js": "/SearchWiki/static/js/main.38a61d74.chunk.js",
+    "main.js.map": "/SearchWiki/static/js/main.38a61d74.chunk.js.map",
+    "runtime-main.js": "/SearchWiki/static/js/runtime-main.44c4f798.js",
+    "runtime-main.js.map": "/SearchWiki/static/js/runtime-main.44c4f798.js.map",
+    "static/js/2.a0e6be7a.chunk.js": "/SearchWiki/static/js/2.a0e6be7a.chunk.js",
+    "static/js/2.a0e6be7a.chunk.js.map": "/SearchWiki/static/js/2.a0e6be7a.chunk.js.map",
+    "index.html": "/SearchWiki/index.html",
+    "static/css/main.7b82b3a6.chunk.css.map": "/SearchWiki/static/css/main.7b82b3a6.chunk.css.map",
+    "static/js/2.a0e6be7a.chunk.js.LICENSE.txt": "/SearchWiki/static/js/2.a0e6be7a.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/SearchWiki/static/media/bg.ca502cb6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44c4f798.js",
+    "static/js/2.a0e6be7a.chunk.js",
+    "static/css/main.7b82b3a6.chunk.css",
+    "static/js/main.38a61d74.chunk.js"
+  ]
+}
